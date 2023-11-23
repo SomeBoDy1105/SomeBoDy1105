@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Shopilna**
 
-- 🌱 I’m currently learning **laravel / flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **moustafa.loukarfi@gmail.com**
 
