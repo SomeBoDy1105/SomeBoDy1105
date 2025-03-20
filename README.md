@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somebody1105&label=Profile%20views&color=0e75b6&style=flat" alt="somebody1105" /> </p>
 
-- 🔭 I’m currently working on **Serenity**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **laravel/blade**
 
 - 📫 How to reach me **moustafa.loukarfi@gmail.com**
 
